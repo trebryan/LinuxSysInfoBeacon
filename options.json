@@ -1,0 +1,10 @@
+{
+  "apikey": "XYZDEF",
+  "beaconInstanceId": "auto:mac:en0",
+  "functions": [
+    "cpu",
+    "mem",
+    "fsSize",
+    "currentLoad"
+  ]
+}

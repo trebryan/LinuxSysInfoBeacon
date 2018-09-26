@@ -1,11 +1,11 @@
 {
-  "apikey": "XYZDEF",
+  "apikey": "68d5d82576163a91870e57d8d3db021c",
   "beaconInstanceId": "auto:mac:en0",
+  "appVersionId": "beer.cold.tasty:1.0.0",
   "functions": [
-    "cpu",
     "mem",
     "fsSize",
     "currentLoad"
   ],
-  "sampleInterval": 23
+  "sampleInterval": 10
 }

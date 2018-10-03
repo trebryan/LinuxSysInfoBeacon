@@ -1,9 +1,8 @@
 {
-  "apikey": "68d5d82576163a91870e57d8d3db021c",
+  "apikey": "8ae6f101285330ffb7f782573eecf186",
   "beaconInstanceId": "auto:mac:en0",
-  "appVersionId": "beer.cold.tasty:1.0.0",
+  "appVersionId": "mocha.test.app:1.0.1",
   "functions": [
-    "mem",
     "fsSize",
     "currentLoad"
   ],

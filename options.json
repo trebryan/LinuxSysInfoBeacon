@@ -1,10 +1,12 @@
 {
-  "apikey": "8ae6f101285330ffb7f782573eecf186",
+  "apikey": "e973ca712cbf357ca071ab85a582b4c6",
   "beaconInstanceId": "auto:mac:en0",
-  "appVersionId": "mocha.test.app:1.0.1",
+  "appVersionId": "io.hrbr.mktest:1.0.0",
   "functions": [
     "fsSize",
-    "currentLoad"
+    "currentLoad",
+    "mem"
   ],
-  "sampleInterval": 10
+  "sampleInterval": 10,
+  "server": "staging"
 }
